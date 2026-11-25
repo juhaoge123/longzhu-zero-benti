@@ -1,2 +1,1 @@
-# longzhu-zero-benti
-龙珠zero本体
+# 龙珠zero本体
